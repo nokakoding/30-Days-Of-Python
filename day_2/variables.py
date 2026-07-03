@@ -8,5 +8,5 @@ city = 'Cagayan de Oro City'
 age = 18
 year = '2026'
 is_married = False
-skills = ['communication','empathy','adaptability']
-person_info = {'firstname':'Francis Akon','lastname':'Barreno','country':'Philippines','city':'Cagayan de Oro']
+skills = ['communication', 'empathy', 'adaptability']
+person_info = {'firstname':'Francis Akon', 'lastname':'Barreno', 'country':'Philippines', 'city':'Cagayan de Oro']
