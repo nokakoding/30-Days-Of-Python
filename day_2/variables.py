@@ -14,3 +14,6 @@ person_info = {
      'country':'Philippines',
      'city':'Cagayan de Oro'
 }
+
+# Printing the values stored in the variables
+
