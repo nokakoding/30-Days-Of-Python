@@ -19,6 +19,13 @@ perimeter = side_a + side_b + side_c
 
 print(f'The perimeter of the triangle is {int(perimeter)}')
 
+length = float(input('Length: '))
+width = float(input('Width: '))
+
+area = length * width 
+perimeter = 2 * length * width 
+
+print(f"
 
 
 
