@@ -4,6 +4,14 @@ weight = complex(60kg)
 
 area = 0.5 * Base * Height
 
-print(input('Base: '))
-print(input('Height: '))
-print('The area of the triangle is' + area)
+base = float(input('Base: '))
+height = float(input('Height: '))
+
+area = 0.5 * base * height 
+
+print(f'The area of the triangle is {int(area)}')
+
+
+
+
+
