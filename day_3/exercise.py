@@ -11,6 +11,15 @@ area = 0.5 * base * height
 
 print(f'The area of the triangle is {int(area)}')
 
+side_a = float(input('Side A: '))
+side_b = float(input('Side B: '))
+side_c = float(input('Side C: '))
+
+perimeter = side_a + side_b + side_c
+
+print(f'The perimeter of the triangle is {int(perimete)}')
+
+
 
 
 
