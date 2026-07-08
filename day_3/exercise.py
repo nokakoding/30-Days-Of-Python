@@ -27,6 +27,13 @@ perimeter = 2 * length * width
 
 print(f'''The area of the rectangle is {int(area)}. The perimeter of the rectangle is {int(perimeter)}.''')
 
+radius = float(input('Radius of the circle: ')) 
+
+area = 3.14 * radius * radius
+circumference = 2 * 3.14 * radius 
+
+print(f'The area of the circle is {float(area)} and its circumference is {float(circumference)}.')
+
 
 
 
