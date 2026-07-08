@@ -25,7 +25,7 @@ width = float(input('Width: '))
 area = length * width 
 perimeter = 2 * length * width 
 
-print(f'''The area of the rectangle is {float(area)}. The perimeter of the rectangle is {float(perimeter)}''')
+print(f'''The area of the rectangle is {int(area)}. The perimeter of the rectangle is {int(perimeter)}.''')
 
 
 
