@@ -17,7 +17,7 @@ side_c = float(input('Side C: '))
 
 perimeter = side_a + side_b + side_c
 
-print(f'The perimeter of the triangle is {int(perimete)}')
+print(f'The perimeter of the triangle is {int(perimeter)}')
 
 
 
