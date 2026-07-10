@@ -44,6 +44,10 @@ is_not_equal = len_python != len_dragon
 
 print(f"is the length of 'python' and 'dragon' the same? {is_not_equal}")
 
+check_on = ('on' in 'python' and 'on' in 'dragon') 
+
+print(f"Is 'on' present in both 'python' and 'dragon'? {check_on}")
+
 
 
 
