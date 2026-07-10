@@ -34,8 +34,8 @@ circumference = 2 * 3.14 * radius
 
 print(f'The area of the circle is {float(area)} and its circumference is {float(circumference)}.')
 
-len_python = length('python')
-len_dragon = length('dragon')
+len_python = len('python')
+len_dragon = len('dragon')
 
 print(f"The length of 'python': {len_python}")
 print(f"The length of 'dragon': {len_dragon}")
