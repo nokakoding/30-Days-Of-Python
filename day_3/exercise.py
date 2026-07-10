@@ -48,8 +48,12 @@ check_on = ('on' in 'python' and 'on' in 'dragon')
 
 print(f"Is 'on' present in both 'python' and 'dragon'? {check_on}")
 
-sentence = I hope this course is not full of jargon
+sentence = 'I hope this course is not full of jargon'
 
+
+check_jargon = ('jargon' in 'sentence')
+
+print(f"Is 'jargon' in the sentence? {check_jargon}")
 
 
 
