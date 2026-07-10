@@ -48,6 +48,10 @@ check_on = ('on' in 'python' and 'on' in 'dragon')
 
 print(f"Is 'on' present in both 'python' and 'dragon'? {check_on}")
 
+sentence = I hope this course is not full of jargon
+
+
+
 
 
 
